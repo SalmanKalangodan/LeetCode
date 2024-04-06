@@ -14,4 +14,4 @@ var createCounter = function (n, call) {
   return Output;
 };
 
-console.log(createCounter(10, ["call", "call", "call"]));
+console.log(createCounter(10, ["call", "call", "call"]));   // [10,11,12]

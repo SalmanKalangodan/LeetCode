@@ -20,4 +20,4 @@ var createHelloWorld = function() {
 };
 
 
-console.log(createHelloWorld([]));
+console.log(createHelloWorld([]));  // Hello World
