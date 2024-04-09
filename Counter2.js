@@ -27,3 +27,8 @@ const counter =(init, calls)=>{
 
 console.log(counter(init = 5, calls = ["increment","reset","decrement"]));  // output = [6 , 5 , 4]
 console.log(counter( init = 0, calls = ["increment","increment","decrement","reset","reset"])); //[1,2,1,0,0]
+
+
+
+
+
