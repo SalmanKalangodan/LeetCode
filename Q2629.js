@@ -46,3 +46,5 @@ var compose = function(functions) {
 };
 
 console.log(compose(functions = [x => x + 1, x => x * x, x => 2 * x], x = 4));
+
+
