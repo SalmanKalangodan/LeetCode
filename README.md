@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SalmanKalangodan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
