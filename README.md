@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SalmanKalangodan/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SalmanKalangodan/LeetCode/tree/master/0137-single-number-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SalmanKalangodan/LeetCode/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
