@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/SalmanKalangodan/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SalmanKalangodan/LeetCode/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/SalmanKalangodan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SalmanKalangodan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SalmanKalangodan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0136-single-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/SalmanKalangodan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SalmanKalangodan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SalmanKalangodan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
