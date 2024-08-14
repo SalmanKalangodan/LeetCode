@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SalmanKalangodan/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0263-ugly-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SalmanKalangodan/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SalmanKalangodan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SalmanKalangodan/LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/SalmanKalangodan/LeetCode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SalmanKalangodan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SalmanKalangodan/LeetCode/tree/master/0046-permutations) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SalmanKalangodan/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
