@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0367-valid-perfect-square](https://github.com/SalmanKalangodan/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SalmanKalangodan/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SalmanKalangodan/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/SalmanKalangodan/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SalmanKalangodan/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SalmanKalangodan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
