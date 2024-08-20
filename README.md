@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SalmanKalangodan/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SalmanKalangodan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SalmanKalangodan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SalmanKalangodan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/SalmanKalangodan/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Trie
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SalmanKalangodan/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SalmanKalangodan/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SalmanKalangodan/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SalmanKalangodan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SalmanKalangodan/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SalmanKalangodan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SalmanKalangodan/LeetCode/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SalmanKalangodan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
