@@ -5,10 +5,9 @@
  */
 var wordPattern = function(pattern, s) {
     let arr = s.split(" ")
-      if(pattern.length !== arr.length) return false
+    if(pattern.length !== arr.length) return false
     const a= new Map()
     const b = new Map()
- 
     for(i=0; i<pattern.length; i++){
        let pe = pattern[i]
        let se= arr[i]
