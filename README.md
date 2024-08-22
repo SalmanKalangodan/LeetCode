@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/SalmanKalangodan/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/SalmanKalangodan/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/SalmanKalangodan/LeetCode/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/SalmanKalangodan/LeetCode/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SalmanKalangodan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
