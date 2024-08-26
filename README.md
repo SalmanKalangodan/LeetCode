@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SalmanKalangodan/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/SalmanKalangodan/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SalmanKalangodan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SalmanKalangodan/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SalmanKalangodan/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SalmanKalangodan/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SalmanKalangodan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/SalmanKalangodan/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/SalmanKalangodan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/SalmanKalangodan/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/SalmanKalangodan/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SalmanKalangodan/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SalmanKalangodan/LeetCode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Counting
