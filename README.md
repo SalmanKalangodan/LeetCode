@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/SalmanKalangodan/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/SalmanKalangodan/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SalmanKalangodan/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0414-third-maximum-number) |
 | [0898-transpose-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SalmanKalangodan/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SalmanKalangodan/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SalmanKalangodan/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SalmanKalangodan/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/SalmanKalangodan/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SalmanKalangodan/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SalmanKalangodan/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/SalmanKalangodan/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SalmanKalangodan/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/SalmanKalangodan/LeetCode/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SalmanKalangodan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SalmanKalangodan/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SalmanKalangodan/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SalmanKalangodan/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SalmanKalangodan/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/SalmanKalangodan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/SalmanKalangodan/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -95,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SalmanKalangodan/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SalmanKalangodan/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SalmanKalangodan/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
