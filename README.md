@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SalmanKalangodan/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SalmanKalangodan/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SalmanKalangodan/LeetCode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/0898-transpose-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SalmanKalangodan/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
 | ------- |
