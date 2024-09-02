@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0414-third-maximum-number) |
 | [0898-transpose-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/0898-transpose-matrix) |
+| [0944-smallest-range-i](https://github.com/SalmanKalangodan/LeetCode/tree/master/0944-smallest-range-i) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SalmanKalangodan/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SalmanKalangodan/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/SalmanKalangodan/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0944-smallest-range-i](https://github.com/SalmanKalangodan/LeetCode/tree/master/0944-smallest-range-i) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SalmanKalangodan/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SalmanKalangodan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3371-harshad-number](https://github.com/SalmanKalangodan/LeetCode/tree/master/3371-harshad-number) |
