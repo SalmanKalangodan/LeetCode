@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SalmanKalangodan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/SalmanKalangodan/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/SalmanKalangodan/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/SalmanKalangodan/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Trie
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SalmanKalangodan/LeetCode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/SalmanKalangodan/LeetCode/tree/master/0898-transpose-matrix) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/SalmanKalangodan/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SalmanKalangodan/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
